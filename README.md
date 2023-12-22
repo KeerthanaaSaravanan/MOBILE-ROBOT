@@ -102,17 +102,13 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Image:
 
-
-<br/>
-<br/>
+![Screenshot 2023-12-22 183049](https://github.com/KeerthanaaSaravanan/MOBILE-ROBOT/assets/145742596/1d8f9381-5b69-4aa6-842f-fe35d36ad58a)
 <br/>
 <br/>
 
 ## MobileRobot Movement Video:
 
 https://youtu.be/_HK4BzRa-Aw
-<br/>
-<br/>
 <br/>
 <br/>
 
